@@ -7,5 +7,7 @@ This repository is for all of the queries that I have written in order to explor
 For this repository I have followed the instruction given in the YouTube Video uploaded on the channel called "Alex The Analyst". for this project I have used the COVID-19 dataset from the website called "Our World in Data".
 
 Link to the video = https://www.youtube.com/watch?v=qfyynHBFOsM
+
+
 Link to the site  = https://ourworldindata.org/
 
