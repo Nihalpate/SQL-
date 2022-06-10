@@ -8,6 +8,5 @@ For this repository I have followed the instruction given in the YouTube Video u
 
 Link to the video = https://www.youtube.com/watch?v=qfyynHBFOsM
 
-
 Link to the site  = https://ourworldindata.org/
 
